@@ -1,10 +1,10 @@
 # Ark.io - IoT Hardware User Stories
 #### source: [https://docs.google.com: USER_STORIES.md](https://docs.google.com/document/d/1UR6di-8lfNH_5_uEERbxYsmunS45yMQBLxg1A-pQP5o/)
 
-Ark.io - IoT Hardware USER STORIES
 
+## Ark.io - IoT Hardware USER STORIES
 
-[**Fisheries Management / Fisheries Observer**](https://docs.google.com/document/d/1nlsKhhPz6vRRkJCbAB-1bbrZMBtv5kCiB7CD6sDiiWE/)  
+[**Fishery Management & Observation**](https://docs.google.com/document/d/1nlsKhhPz6vRRkJCbAB-1bbrZMBtv5kCiB7CD6sDiiWE/)  
   > https://docs.google.com/document/d/1nlsKhhPz6vRRkJCbAB-1bbrZMBtv5kCiB7CD6sDiiWE/
 
 [**Weaponry**](https://docs.google.com/document/d/1iZPmg-w3D0u8UljCjZEC57TZK-vuzbjqsIgPFqXDsh8/)  
@@ -16,4 +16,6 @@ Ark.io - IoT Hardware USER STORIES
 [**Wildelife Conservation**](https://docs.google.com/document/d/1aGcbF8oassfwN6ubP9mgauVYryEjVmxRBq_UdahGhM8/)  
   > https://docs.google.com/document/d/1aGcbF8oassfwN6ubP9mgauVYryEjVmxRBq_UdahGhM8/
 
-Credit: @chris, @mike @btcmacroecon @sleepdeficit
+#
+
+Credit: @kristjank, @btcmacroecon, @sleepdefic1t, @mike::[***arkecosystem.slack.com***](https://arkecosystem.slack.com)
